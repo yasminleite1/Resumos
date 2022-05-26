@@ -1,0 +1,205 @@
+# Resumo Fundamentos de S.I:computer: 
+
+**1-Fundamentos do sistema de informação** 
+
+-Tipos de Software (Pacote (são compostos por variados tipos de softwares, os de escritórios são compostos geralmente por editores de textos, planilha eletrônica, programa para criação e apresentação de slides), user-Friendly( softwares desenvolvidos com ênfase na intuitividade para o público que utilizará a aplicação.), Open Source (software possui o código fonte aberto que pode ser utilizado para diferentes finalidades), Freeware (os programas gratuitos. Em certos casos o desenvolvedor não reclama direitos autorais), Shareware (são softwares distribuídos gratuitamente para ser testados pelo usuário. Se o usuário decidir ficar com o programa e continuar a usá-lo, só então será feito o pagamento), Licença proprietária (Permite a autorização para utilização do software, possui a restrição de determinadas ações,), Groupware (software colaborativo, sua especificação está relacionada a um tipo de software que possibilita que um grupo compartilhe ou rastreie informações).) 
+
+**2- SISTEMAS DE INFORMAÇÕES EMPRESARIAIS: Quanto a abrangência** 
+
+Departamentais (funcionais) destinam-se a suprir as demandas de um departamento especifico, Integrados (ERPs) integram as informações de todas as áreas de uma organização, Inteorganizacionais (IOSs) integram informações de várias empresas. 
+
+**\- SISTEMAS DE INFORMAÇÕES EMPRESARIAIS: Quanto ao nível decisório** 
+
+SPTs (Sistemas de Processamento de transações) registros dos dados produzidos pela operação, SIGs (Sistemas de informações gerenciais) Informações gerenciais/planejamento e gestão da operação, SISs (Sistemas de informações estratégicas) englobam ------> SADs(Sistemas de apoio a decisão) Apoio as decisões complexas/simulações/modelagens de problemas, SAEs (Sistemas de apoio aos executivos) visão estratégica dos negócios/indicadores críticos de desempenho. 
+
+ 
+
+**3-Funções básicas de segurança do sistema de informação:** 
+
+- Dissuasão 
+- Prevenção 
+
+- Detecção 
+- Contenção 
+- Recuperação 
+- Restauração 
+
+De acordo com Caiçara (2015, p. 158): a falta de segurança pode trazer prejuízos tangíveis e intangíveis, e alguns podem comprometer o próprio negócio. Podemos citar alguns efeitos decorrentes da falta de segurança: perda de oportunidades de negócio, perda de produtividade, perda de mercado, atrasos na entrega de produtos ou serviços, desgaste da imagem, perda de credibilidade com os clientes, entre outros. 
+
+\1. Quanto tempo a empresa sobreviverá sem os recursos de informática? 
+
+\2. Quais ameaças poderão afetar o negócio? 
+
+\3. O que deverá ser protegido? 
+
+ \4. Quem será afetado se ocorrer um desastre? 
+
+\5. Qual é a capacidade de recuperação da empresa, ou seja, em quanto tempo ela voltará a operacionalizar suas atividades e a que custo? 
+
+ \6. Que recursos serão disponibilizados para a segurança da informação? 
+
+que as funções básicas de segurança dos sistemas de informação devem estar alinhadas com os seguintes passos: dissuasão: para que ocorra o desencorajamento à prática de irregularidades; prevenção: com o intuito de reduzir a ocorrência dos riscos; detecção: para sinalizar a ocorrência dos riscos; contenção: limitar o impacto do risco; recuperação: ter alternativa para a continuidade operacional; restauração: corrigir os danos causados pelos riscos. 
+
+: Caiçara, 2016, p. 165-172 
+
+BELMIRO, N. J. (Org.). Sistemas computacionais. São Paulo: Pearson, 2014. CAIÇARA, C. J. Sistemas integrados de gestão: ERP – uma abordagem gerencial. 2. ed. Curitiba: InterSaberes 2015. LAUDON, K. C.; LAUDON, J. P. Sistemas de informação gerenciais. 11. ed. São Paulo: Pearson Prentice Hall, 2014. 
+
+ 
+
+A **Teoria dos Sistemas, proposta por Ludwig von Bertalanffy**, considera as organizações como sistemas, onde podemos encontrar ligações entre os elementos que a compõem. Nesta direção, a Teoria Sistêmica mostra a organização como um verdadeiro sistema, onde existem os seguintes parâmetros: 
+
+Entradas - compra de produtos; matéria-prima; fornecedores; 
+
+Saídas - vendas de produtos e/ou serviços; 
+
+Processamento - é produção de um bem; a matéria-prima foi trabalhada; 
+
+Retroalimentação - feedback dos clientes e dos fornecedores. 
+
+ 
+
+**4-Sistemas de gestão integrados nas organizações** 
+
+– ERP (ENTERPRISE RESOURCE PLANNING): A integração das áreas funcionais nos sistemas foi determinante para o desenvolvimento dos sistemas integrados de gestão (ERP), é um pacote comercial de software, que tem por finalidade organizar, padronizar e integrar as informações transacionais que circulam pelas organizações. “oferece suporte às áreas de planejamento, manufatura, vendas, marketing, distribuição, contabilidade, finanças, recursos humanos, gestão de projetos, controle de estoques, serviços transporte e e-business. 
+
+ É um pacote comercial de software; 
+
+ É construído com base nas melhores práticas de mercado (best practices); 
+
+ Utiliza banco de dados único e corporativo; 
+
+ É composto por módulos; 
+
+ Não é desenvolvido para um cliente específico 
+
+ 
+
+**--SCM** (Suplly Chain Management): sistemas de gestão da cadeia de suprimentos, são considerados sistemas interorganizacionais, por terem a característica de automatizar o fluxo da informação através da fronteira organizacional. A utilização de um sistema tende a aumentar o lucro da empresa, pois, com tais informações, os gerentes conseguem tomar melhores decisões sobre como organizar e agendar recursos, produção e distribuição. Com isso, há uma diminuição dos gastos com transporte e com fabricação de produtos. “Upstream (abrange fornecedores de primeiro e segundo nível); Interna (envolve desde a chegada da matériaprima até a distribuição do produto acabado); e Downstream (envolve todos os processos relacionados à entrega do produto ao consumidor final)”. 
+
+ 
+
+**-- CRM** (Customer Relationship Management): gerenciamento do relacionamento com o cliente CRM “pode ser considerado uma arquitetura que combina processos de negócios e tecnologias e que tem como objetivos principais atender os clientes, identificar quem são eles, o que fazem e do que gostam”. O objetivo de utilização um sistema CRM é otimizar a receita e aumentar a satisfação e a retenção de clientes, pois as informações fornecidas auxiliam as empresas a identificar, atrair e manter os clientes mais lucrativos – presta-se serviços com melhor qualidade aos clientes já existentes e se aumenta as vendas. “CRM é o mesmo que marketing one to one (marketing 1 a 1) também conhecido como marketing de relacionamento”, CRM é como um mix composto por orientação ao cliente, marketing de relações, tecnologia da informação e softwares especializados. 
+
+ 
+
+**-- SGC** (Sistemas de Gestão do Conhecimento): Os sistemas de gestão do conhecimento são um “conjunto de processos pelos quais as empresas buscam criar, armazenar, transferir e aplicar o conhecimento. Os sistemas de gestão do conhecimento podem melhorar a qualidade e o uso do conhecimento que uma empresa emprega nas tomadas de decisão”, permitem que a organização administre e melhore o processo, a fim de capturar e aplicar conhecimento e experiência; basicamente os sistemas coletam o conhecimento e a experiência relevantes para a empresa e os tornam disponíveis onde e quando for necessário para melhorar o processo de negócio e as decisões administrativas, e vincular a empresa a fontes externas de conhecimento, e servem para ajudar as empresas a gerenciar os tipos de informação 
+
+ 
+
+**--BI (**Business Intelligence): business intelligence pode ser traduzido literalmente como inteligência nos negócios; a finalidade da utilização de ferramentas BI é bastante antiga, serve para que o tomador de decisão tenha em mãos, no momento em que desejar, todas as informações relevantes para suportar o processo de decisão. A principal característica deste produto é que a usabilidade seja fácil, já que os principais usuários dessa aplicação são gestores.Há um grande volume de dados, que são geralmente multidimensionais, processados por meio de técnicas computacionais avançadas, como algoritmos inteligentes, a mineração de dados (data mining) e o processamento analítico on-line (Olap), que são definidos a seguir: 
+
+Data Warehouses são grandes armazéns de dados alimentados com dados transacionais oriundos dos diversos bancos de dados da empresa, inclusive dos sistemas ERP. 
+
+Data Mining, ou mineração de dados, pode ser definido como o processo de extração de informações desconhecidas de um data warehouse ou de um data mart. Data mining significa descobrir fatos novos, alguns deles aparentemente irrelevantes em princípio, mas quando examinados em um contexto mais amplo, aliados à inteligência humana e a tecnologias de suporte revelam conhecimentos de profunda importância para a empresa. 
+
+OLAP é a sigla de online analytical processing, ou processamento analítico on-line. É uma tecnologia que permite ao usuário extrair informações de um data warehouse e data mart de forma customizada, 11 simples e interativa. 
+
+**--KM** painel de controle digital e gestão de documentos: A gestão de documentos é defendida por Caiçara (2015) como uma das tecnologias com maior potencial de utilização. Diversas empresas apontam que ela é um recurso capaz de gerenciar as informações de forma plena e eficaz. “as etapas que compõem o processo da gestão de documentos são: captura, armazenamento, gerenciamento, distribuição e preservação”, trata-se de uma ferramenta cada vez mais popular entre os gestores da tomada de decisão. É uma área formada “por diversas tecnologias capazes de trabalhar com os documentos digitais, as quais podem ser baseadas em hardware ou em software” 
+
+Document Imaging – DI: o gerenciamento de imagens e documentos, que enfatiza a digitalização de documentos com origem em papel e microfilme. 
+
+Document management – DM: o gerenciamento de documentos é a tecnologia que gerencia o fluxo de documentos digitais e permite o controle do acesso físico a documentos, o que propicia maior segurança, além de facilitar acessos futuros a esses documentos. 
+
+Workflow – Fluxo automatizado de processos: é uma tecnologia que tem como função principal monitorar, gerenciar e disparar ações e tarefas, organizando um processo administrativo de forma eletrônica. 
+
+Cold e ERM cold computer output to laser disk – São sistemas baseados em saída de dados de computador para discos ópticos. A principal atividade dos sistemas Cold é armazenar dados oriundos de sistemas de informações em formato de relatórios e formulários; 
+
+Forms Processing (processamento de formulários) – Permite reconhecer as informações a partir dos formulários e relacioná-las com campos em banco de dados. O objetivo é preparar o formulário para coletar os dados que irão constituí-lo e enviá-los a um sistema que se encarregará de ordená-los na forma mais adequada. 
+
+ 
+
+**--IA** (inteligência artificial) e aplicações de decisão: As tecnologias oriundas da IA consistem em sistemas baseados em computador, tanto hardware ou software, que tentam simular o comportamento e os padrões do pensamento humano. 
+
+Sistema Especialista: captura expertise humana em um domínio específico do conhecimento e a transforma em um conjunto de regras para o sistema de software que pode ser utilizado por outras pessoas da organização. 
+
+Algoritmos genéticos: servem para encontrar a solução ideal de um problema específico após o exame de um imenso número de soluções alternativas. Suas técnicas são baseadas em métodos inspirados na Biologia evolucionária, tais como herança, mutação, seleção e cruzamento (recombinação). 
+
+Redes neurais: usadas para resolver problemas complexos e não totalmente compreendidos para os quais grandes quantidades de dados já foram coletadas. 
+
+Sistema de Lógica Difusa: é uma tecnologia baseada em regras que representam tal imprecisão criando regras com valores aproximados ou subjetivos; ela descreve um fenômeno ou processo particular linguisticamente, e depois representa essa descrição em um número de regras flexíveis. 
+
+Agentes Inteligentes: programas de software que trabalham na retaguarda; sem intervenção humana direta, executam tarefas específicas repetitivas e previsíveis para um único usuário, processo de negócio ou software aplicativo. 
+
+ 
+
+**--MÍDIAS SOCIAIS INTEGRADAS AOS SISTEMAS:** Para facilitar e automatizar a execução das tarefas, muitas empresas estão aumentando a colaboração e implantando o que Laudon e Laudon (2014) definem como social business. Esta área se caracteriza pelo uso de plataformas de redes sociais, incluindo Facebook, Twitter e outras ferramentas sociais corporativas com vistas a envolver funcionários, clientes e fornecedores. O objetivo é aprofundar as interações com grupos dentro e fora da empresa, de modo a agilizar e 16 melhorar o compartilhamento de informações para a inovação, melhorando o processo de tomada de decisão. O ambiente de comunicação possibilita que todos os envolvidos conheçam uns aos outros. Quando isso ocorre, é provável que a eficiência operacional seja impulsionada, estimulando a inovação e acelerando as tomadas de decisão. 
+
+ 
+
+**-- GOVERNANÇA CORPORATIVA E GOVERNANÇA DE TI:** “as organizações e empresas sem fins lucrativos, e órgãos governamentais que também são organizações formais complexas e produzem produtos e serviços, mas não funcionam com objetivo de obter lucro”. Porém, até mesmo essas organizações consomem recursos e proporcionam resultados a seus integrantes e clientes. Em geral, os sistemas de informação encontrados em organizações governamentais e sem fins lucrativos são semelhantes aos presentes na iniciativa privada. As quatro funções básicas de uma empresa: 
+
+**Produtos ou serviços** 
+
+-Manufatura e produção; 
+
+-Vendas e marketing; 
+
+-Finanças e contabilidade; 
+
+-Recursos humanos 
+
+Qualquer empresa, independentemente de seu tamanho, precisa desempenhar as quatro funções para ter sucesso: precisa produzir o produto ou o serviço, fazer o marketing desse produto e vendê-lo, monitorar as transações financeiras e contábeis e executar as tarefas básicas de Recursos Humanos, tais como contratar e reter funcionários. 
+
+Sobre governança, é importante entender sua função: O papel da governança corporativa é atender basicamente o interesse dos acionistas, em compatibilização com os interesses dos empregados, clientes, fornecedores, credores e da comunidade em que opera a organização. A governança de TI consiste no gerenciamento e no controle dos recursos de tecnologia de informação da organização, garantindo o alinhamento da TI às estratégias e aos objetivos organizacionais. 
+
+ 
+
+**5- Negócios eletrônicos:** 
+
+Conceito: O e-business tem o objetivo de incluir as atividades relacionadas à gestão interna da empresa; a união dos fatores deve ser útil para a coordenação com fornecedores e outros parceiros de negócios. Inclui também o comércio eletrônico, ou e-commerce. E-commerce é a parte do e-business que lida com a compra e venda de bens e serviços pela internet. Tal conceito abrange as atividades que apoiam essas transações, tais como propaganda, marketing, atendimento ao cliente, segurança, entrega e pagamento. 
+
+Existem várias categorias, que são: B2C, C2B e B2B, B2G, G2B e C2G, G2C, G2G, C2C, B2E, E2B 
+
+• B: business: “empresa/fornecedor”. 
+
+ • C: consumer: “consumidor/cliente”. 
+
+ • E: employee: “empregado”. 
+
+• G: government: “governo”. 
+
+ 
+
+B2C: EMPRESA PARA CONSUMIOR 
+
+C2B: CONSUMIDOR PARA EMPRESA 
+
+B2B: EMPRESA PARA EMPRESA 
+
+B2G: EMPRESA PARA GOVERNO 
+
+G2B: GOVERNO PARA EMPRESA 
+
+C2G: CONSUMIDOR PARA GOVERNO 
+
+G2C: GOVERNO PARA CONSUMIDOR 
+
+G2G: GOVENO PARA GOVERNO 
+
+C2C: CONSUMIDOR PARA CONSUMIDOR 
+
+B2E: EMPRESA PARA FUNCIONARIO 
+
+E2B: FUNCIONARIO PARA EMPRESA 
+
+ 
+
+**--LEI, ÉTICA E CIBERCRIME**: “cada empresa pode incluir em seu código questões relacionadas à privacidade à exatidão a propriedade e acessibilidade no que se refere às informações”. 
+
+Aspectos éticos no tratamento da informação 
+
+Privacidade: refere-se a questões que envolvem coleta, armazenamento e disseminação das informações; 
+
+Exatidão: Envolve questões relacionadas a autenticidade, a fidelidade e a correção das informações coletadas e disseminadas; 
+
+Propriedade: Diz respeito a propriedade e ao valor da informação; 
+
+Acessibilidade: Define quem deve ter acesso às informações e essas pessoas devem pagar para isso. 
+
+Laudon e Laudon (2014) afirmam que a introdução das tecnologias de informação gera um efeito de ondas concêntricas que suscitam questões éticas, sociais e políticas, as quais precisam ser tratadas nos níveis individual, social e político. 
+
+**--TENDÊNCIAS (LANDING PAGE, BIG DATA):** 
+
+“big data é um termo utilizado para resumir o conceito de soluções tecnológicas, é capaz de coletar e tratar um grande volume de dados com uma velocidade gigantesca. Por meio da tecnologia do big data é possível o tratamento de dados não estruturados, tais como posts do Facebook ou LinkedIn, vídeos do YouTube e qualquer outro tipo de dado digital existente”. EX: Facebook, Twitter e o Shutterstock 
+
+A Landing Page é uma página para retirada de dúvidas do cliente sobre o produto e quebrar objeções sobre a compra do mesmo. 

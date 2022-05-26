@@ -1,0 +1,185 @@
+# RESUMO COMPTAÇÃO EM NUVEM :computer::cloud:
+
+
+
+**Unidade 1 - virtualização** 
+
+O objetivo principal da virtualização é centralizar tarefas administrativas, conseguir escalabilidade de aplicações, responder mais rápido às necessidades do negócio e facilitar a vida dos gestores de TI e administradores de redes, storages e servidores. A virtualização de servidores junto com capacidade de conexão da Internet é uma peça chave para a adoção da computação em nuvem pelas empresas. 
+
+ 
+
+O que é virtualização? Virtualização (em computação) é a criação de uma versão virtual de alguma coisa, como um sistema operacional, um servidor, um dispositivo de armazenamento (storage) ou recurso de rede. 
+
+-- A virtualização de servidores permite executar diversos sistemas operacionais simultaneamente no mesmo hardware, que são chamados de máquinas virtuais. 
+
+-- A virtualização de storage se aplica normalmente a equipamentos específicos, conhecidos como Storages, o que permite que múltiplos equipamentos sejam reconhecidos e gerenciados como um só. 
+
+-- A virtualização de rede consiste em separar uma camada física de rede (um conector ou cabo por exemplo) em diversas camadas lógicas, isoladas entre si, para fins distintos. 
+
+-- Na virtualização de aplicação, uma camada de software instalado entre o sistema operacional e a aplicação virtualizada fica responsável pela abstração do sistema operacional, bibliotecas e drivers. 
+
+-- A virtualização de Desktops não é diferente da virtualização de Sistema Operacional, consiste em executar o sistema operacional do Desktop (Windows 10 por exemplo) em uma máquina virtual. 
+
+-- “Containers” são aplicativos que executam em ambientes isolados dentro de um sistema operacional. São uma forma mais avançada de Virtualização de Aplicação. 
+
+ 
+
+**Vantagens -** economia de energia; otimização do espaço físico; melhor utilização do hardware(poder dimensionar quanto de hardware você deseja entregar para determinada VM); menores custos; gerenciamento facilitado; VMBUS se comunicando com mais facilidade; rodar aplicativos com ótimo desempenho; maior disponibilidade seja dos servidores ou dos aplicativos; migração de servidores para manutenção; replicação dos dados Disaster Recovery; backup centralizado; poder rodar tudo em nuvem sem precisar estar presente na empresa. 
+
+--Gerenciamento centralizado 
+
+--Instalações simplificadas 
+
+--Facilidade para a execução de backups 
+
+--Suporte e manutenção simplificados 
+
+--Independência de Hardware 
+
+--Migração de servidores para novo hardware de forma transparente 
+
+--Maior disponibilidade e mais fácil recuperação em caso de desastres 
+
+--Compatibilidade total com as aplicações 
+
+--Economia de espaço físico 
+
+--Economia de energia elétrica utilizada em refrigeração e na alimentação dos servidores. 
+
+--Segurança 
+
+--Confiança e disponibilidade 
+
+--Custo 
+
+--Adaptação às diferentes cargas de trabalho 
+
+--Balanceamento de carga 
+
+--Suporte a aplicações legadas 
+
+--Redução de custos 
+
+--Melhor aproveitamento do espaço físico 
+
+--Melhor aproveitamento do hardware 
+
+--Simulações 
+
+--Pode-se utilizar sistemas operacionais que não possuam compatibilidade com o hardware, utilizando os recursos de virtualização de hardware, possibilitando, assim, testes ou até mesmo economia com a compra de hardware de menor custos. 
+
+--Redução do downtime 
+
+--Facilidade ao migrar ambientes 
+
+--Utilização de uma VM como ambiente de desenvolvimento 
+
+ 
+
+**Desvantagens –** software são sujeitos a falhas; monitoramento constante dos softwares; leve queda de desempenho. 
+
+-- Grande uso de espaço em disco, já que é preciso de todos os arquivos para cada sistema operacional instalado em cada máquina virtual. 
+
+--Dificuldade no acesso direto a hardware 
+
+--Grande consumo de memória RAM 
+
+--Gerenciamento 
+
+--Desempenho 
+
+ 
+
+O que é **hipervisor**? É a camada de software que permite a criação(visualização) de máquinas virtuais e, consequentemente, seu gerenciamento e controle. O **hipervisor tipo 1** é um hipervisor que é instalado diretamente sobre o hardware e onde são instalados os sistemas operacionais. O **hipervisor tipo 2** é implementado para funcionar como se fosse aplicação do sistema operacional hospedeiro operando em modo usuário, onde serão criadas as máquinas virtuais, na prática é um programa do sistema hospedeiro que oferece um ambiente para simular máquinas reais. 
+
+ 
+
+Qual a diferença entre **paravirtualização e virtualização** total? A **virtualização** não utiliza sistemas operacionais modificados, isto é, estes executam instruções sensiveis e utilizam tradução binária para se comunicar com o hardware. Na **paravirtualização,** os sistemas tem seu código modificado de forma que as instruções sensiveis são retiradas e estes passem a executar chamadas hipervisor. 
+
+ 
+
+****
+
+**Unidade 2 - Computação nas nuvens** 
+
+**--cloud computing** 
+
+De uma forma simples, **cloud computing,** ou computação na nuvem, é uma tecnologia que permite acesso remoto a softwares, armazenamento de arquivos e processamento de dados por meio da internet. É uma alternativa para você acessar dados importantes de qualquer computador, em qualquer lugar. 
+
+ 
+
+O cloud computing utiliza uma camada de rede para conectar desde os dispositivos de ponto periférico dos usuários, como computadores, smartphones e acessórios portáteis, a recursos centralizados no data center. Ele conta com diferentes modelos de serviço: 
+
+**O modelo** [**SaaS**](https://www.salesforce.com/br/saas/) – software como serviço de computação na nuvem – é o mais conhecido entre as empresas. Ele disponibiliza o aplicativo de software ao usuário por meio de uma interface de navegador ou de programa e faz com que a rede subjacente, o sistema operacional e os recursos funcionem nos bastidores. Não é necessário comprar o software, pois o serviço é contratado por meio de assinaturas que dão permissão de acesso. Logo, o uso dos aplicativos pode ser feito de qualquer dispositivo conectado à internet. 
+
+ 
+
+**O modelo** [**PaaS**](https://www.salesforce.com/br/paas/) – plataforma como serviço – aproveita os benefícios da computação na nuvem enquanto mantém a liberdade de desenvolver aplicações personalizadas de software. Os usuários podem acessar a PaaS da mesma maneira que fazem com o aplicativo SaaS. O provedor é responsável pela manutenção do sistema operacional, da rede, dos servidores e da segurança. Pode haver também abstrações em nível de aplicativo que aceleram o desenvolvimento de apps e a implementação de vários dispositivos. Fora isso, uma plataforma tradicional em execução em um pool remoto vai gerar alguns benefícios de capacidade flexível, mas não se pode esperar que acelere a inovação da empresa. 
+
+ 
+
+**O modelo IaaS** – infraestrutura como serviço – é o modelo de serviço com maior nível de flexibilidade e controle sobre os recursos de tecnologia. Ele proporciona às organizações a capacidade de aproveitar recursos brutos do servidor enquanto o restante do gerenciamento da plataforma e do software é de responsabilidade da empresa. Isso permite capacidade extra sem a preocupação com requisitos de hardware. 
+
+ 
+
+**Tipos de cloud compiting:** 
+
+-Nuvem privada: Constituída de uma só organização com sua própria nuvem de servidores e software para a utilização sem um ponto de acesso público. 
+
+-Nuvem publica: Diversas empresas podem usar de maneira simultânea, mas separadamente. O provedor da nuvem é responsável pela manutenção e segurança. 
+
+-Nuvem Hibrida: Composta de duas ou mais infraestruturas de nuvens distintas que permanecem como entidades únicas, mas que estão unidas por uma tecnologia padronizada ou proprietária. 
+
+-Nuvem comunitária: Diferentes empresas ou organizações reúnem em pool seus recursos na nuvem para resolver um problema comum. 
+
+ 
+
+**Por que usar Cloud Computing?** 
+
+**-- Para Dispensar o Hardware** 
+
+**-- aumentar a segurança** 
+
+**-- Colocando todos no mesmo nível** 
+
+ 
+
+**Principais características do Cloud Computing** 
+
+- Sob demanda: Não é preciso consultar alguém ou ter um profissional de TI envolvido no provisionamento do servidor ou do armazenamento na rede. Você tem a capacidade de computação necessária quando precisa. 
+- Multiplataforma: Basta ter uma conexão à internet para acessar o serviço em seu laptop, tablet, smartphone ou computador desktop. 
+- Recursos em pool: Segue o modelo de multilocatários, o que significa que há vários usuários do software. 
+- Flexibilidade rápida: O usuário tem uma experiência que é dimensionada com base na demanda e na utilização real. Imagine um hotel que possa mudar o tamanho da cama de queen size para king size no mesmo "quarto". 
+- Serviço medido: A utilização de recursos é monitorada, controlada e relatada antecipadamente. Isso torna a capacidade de computação essencialmente a mesma em relação a um serviço de utilitários pago. 
+
+ 
+
+**Vantagens e desvantagens da computação em nuvem para o seu negócio** 
+
+**Vantagens:** 
+
+**-** Memória livre 
+
+\- Do online para o offline 
+
+\- Em qualquer lugar, a qualquer momento 
+
+ 
+
+**Desvantagens** 
+
+\- Custo 
+
+\- Velocidade da internet 
+
+\- Insegurança 
+
+
+
+
+
+**OBS:**
+
+***Failover em computação significa tolerância a falhas. Quando um sistema, servidor ou outro componente de hardware ou software fica indisponível, um componente secundário assume operações sem que haja interrupção nos serviços.** 
+
+**Xen- é uma camada de software rodando diretamente sobre o hardware do computador substituindo o sistema operacional, permitindo que o hardware execute multiplas intancias de sistemas operacionais visitantes concorrente (arquitetura: dominio 0/U E HIPERVISOR O cloud computing utiliza uma camada de rede para conectar desde os dispositivos de ponto periférico dos usuários, como computadores, smartphones e acessórios portáteis, a recursos centralizados no data center. Ele conta com diferentes modelos de serviço:** 
